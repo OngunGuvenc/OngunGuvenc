@@ -15,9 +15,6 @@ I'm a undergraduate computer engineering student having fun.<br>Add me on Linked
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ongunguvenc&icon=8&color=2)](https://visitcount.itsvg.in)
 
